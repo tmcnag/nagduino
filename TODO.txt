@@ -1,0 +1,5 @@
+- Globalize the Nagduino object?
+- Make mac, ip, nagios, and token vars into Nagduino class variables
+- Display HTTP responses
+- Allow both IP and hostnames for Nagios server (will need DNS functionality)
+- Add debug code back in
